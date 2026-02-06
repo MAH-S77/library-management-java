@@ -26,23 +26,3 @@ The project was completed as part of an academic assessment and demonstrates cor
 
 ---
 
-## 📁 Project Structure
-ProgrammingAssessment2_40449285/
-│
-├── part01/
-│ ├── Book.java
-│ ├── BookStatus.java
-│ ├── BookType.java
-│ ├── Lendable.java
-│ ├── Library.java
-│ ├── LibraryBook.java
-│ ├── Menu.java
-│ └── QUBLibrary.java
-│
-├── part02/
-│ └── QUBLibraryUpdated.java
-│
-├── images/
-│ └── (Project screenshots)
-│
-└── AI Usage Report.odt
